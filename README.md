@@ -1,1 +1,1 @@
-Please visit the new BibleBot paghe: https://github.com/BibleBot/BibleBot
+Please visit the new BibleBot page: https://github.com/BibleBot/BibleBot
